@@ -16,3 +16,12 @@ C:\Users\i3acksp4ce\AppData\Local
 C:\Users\i3acksp4ce\AppData\Local\flutter_windows_1.20.4-stable\flutter\bin
 ```
 
+## ตั้งค่า path android SDK \(option\)
+
+```text
+เพิ่ม variable
+ANDROID_HOME
+ANDROID_SDK_HOME
+C:\Program Files\Android\SDK
+```
+
