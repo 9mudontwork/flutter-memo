@@ -5,6 +5,6 @@
 * [ADV](adv.md)
 * [Basic Layout](basic-layout/README.md)
   * [Scaffold](basic-layout/scaffold.md)
-  * [การเพิ่ม Font](basic-layout/font.md)
+  * [การเพิ่ม Font, Assets](basic-layout/font.md)
   * [สี Matterial design](basic-layout/matterial-design.md)
 
