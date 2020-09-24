@@ -3,6 +3,8 @@
 * [บันทึก Flutter](README.md)
 * [ติดตั้ง](undefined.md)
 * [ADV](adv.md)
-* [สี Matterial design](matterial-design.md)
-* [Basic Layout](basic-layout.md)
+* [Basic Layout](basic-layout/README.md)
+  * [Scaffold](basic-layout/scaffold.md)
+  * [การเพิ่ม Font](basic-layout/font.md)
+  * [สี Matterial design](basic-layout/matterial-design.md)
 
