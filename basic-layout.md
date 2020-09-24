@@ -2,6 +2,10 @@
 
 ## Scaffold
 
+{% embed url="https://api.flutter.dev/flutter/material/Scaffold-class.html" %}
+
+
+
 {% embed url="https://api.flutter.dev/flutter/material/Scaffold/Scaffold.html" %}
 
 ```text
