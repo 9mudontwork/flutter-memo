@@ -12,7 +12,7 @@ build function จะ run เพียงครั้งเดียวเมื
 
 จะใช้วิธี destroy widget และ create instance ของมันใหม่
 
-## StateFull
+## Stateful
 
 state สามารถเปลี่ยนแปลงได้ตลอดเวลา
 
