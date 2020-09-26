@@ -12,3 +12,15 @@ build function จะ run เพียงครั้งเดียวเมื
 
 จะใช้วิธี destroy widget และ create instance ของมันใหม่
 
+## StateFull
+
+state สามารถเปลี่ยนแปลงได้ตลอดเวลา
+
+ถ้าต้องการจะเปลี่ยนแปลงค่าอะไรบางอย่าง
+
+จะทำด้วยวิธี set state
+
+และเมื่อข้อมุลมีการเปลี่ยนแปลงแล้ว มันจะ trigger build function
+
+เพื่อ rebuild widget ใหม่
+
