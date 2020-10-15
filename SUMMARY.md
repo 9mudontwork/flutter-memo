@@ -13,7 +13,7 @@
   * [Routing](basic-layout/routing.md)
   * [Widget Lifecycle](basic-layout/widget-lifecycle.md)
 
-## Firebase Example
+## Firebase Example Project <a id="firebase-example"></a>
 
 * [Project Structure](firebase-example/project-structure.md)
 
