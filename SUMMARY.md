@@ -1,7 +1,8 @@
 # Table of contents
 
 * [บันทึก Flutter](README.md)
-* [ติดตั้ง](undefined.md)
+* [ติดตั้ง](undefined/README.md)
+  * [ตั้งค่า android studio path](undefined/android-studio-path.md)
 * [ADV](adv.md)
 * [Basic Layout](basic-layout/README.md)
   * [Scaffold](basic-layout/scaffold.md)
