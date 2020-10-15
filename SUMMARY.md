@@ -16,4 +16,5 @@
 ## Firebase Example Project <a id="firebase-example"></a>
 
 * [Project Structure](firebase-example/project-structure.md)
+* [Authenticate](firebase-example/authenticate.md)
 
