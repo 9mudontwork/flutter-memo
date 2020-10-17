@@ -12,5 +12,9 @@
 
 {% embed url="https://firebase.flutter.dev/docs/auth/usage\#anonymous-sign-in" %}
 
+## ต้อง init firebase ก่อน
+
+{% embed url="https://stackoverflow.com/questions/63492211/no-firebase-app-default-has-been-created-call-firebase-initializeapp-in" %}
+
 
 
